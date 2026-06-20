@@ -6,14 +6,11 @@ This project is a simple Machine Learning model that predicts employee salary ba
 
 The dataset is created manually for learning purposes and contains Experience as the input feature and Salary as the target variable. The model is trained using a Linear Regression algorithm and evaluated using Mean Squared Error (MSE).
 
-Objective
-
+Objective -
 To predict salary based on experience using a regression model.
 
-Tools Used
-
+Tools Used -
 Python, Pandas, Scikit-learn
 
-Outcome
-
+Outcome -
 The model successfully learns the relationship between experience and salary and provides accurate predictions with minimal error.
